@@ -194,6 +194,7 @@ namespace Clases
             while (temp != null) 
             {
                 temp = temp.siguiente;
+
             }
         }
     }
